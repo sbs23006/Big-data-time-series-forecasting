@@ -1,3 +1,4 @@
 ProjectTweets.csv
 tweets.csv
-hadoop_jobs/filter_clean/outCA/*
+hadoop_jobs/filter_clean/processed/*
+hadoop_jobs_filter_clean/processedTweets.csv
